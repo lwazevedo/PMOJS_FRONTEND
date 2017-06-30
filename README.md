@@ -1,10 +1,7 @@
 # PMOJS_FRONTEND
 
-# Estrutura
-Este projeto esta dividido em duas partes; FrontEnd e BackEnd
-
-## Objetivo:
-Gerenciar projetos e suas equipes.
+## Descrição:
+Gerenciar projetos e equipes.
 
 ## Features
 * Blur-Admin
