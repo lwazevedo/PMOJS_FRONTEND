@@ -1,7 +1,7 @@
-# PMOJS_FRONTEND
+# pmojs_frontend
 
 ## Descrição:
-Gerenciar projetos e equipes.
+Gerenciar projetos e equipes. (Em stand-by)
 
 ## Features
 * Blur-Admin
